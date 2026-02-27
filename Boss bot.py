@@ -9,10 +9,10 @@ import pandas as pd
 from datetime import datetime, timezone, timedelta
 
 # ================= CONFIG =================
-TELEGRAM_TOKEN = "8602431042:AAHnJ3z9qAtbwtrLpeggSoqXx4HhPdC7dJU"
+TELEGRAM_TOKEN = ""
 CHAT_ID = "7434243701"
-TWELVE_DATA_API_KEY = "ac37a1fd975846dbba1536512e7de631"
-NEWS_API_KEY = "c7f1bceb70744202a4b7b3524fc34b6f"
+TWELVE_DATA_API_KEY = ""
+NEWS_API_KEY = ""
 
 CRYPTO_SYMBOLS = ["BTCUSDT", "ETHUSDT"]
 FOREX_METALS = ["EUR/USD", "GBP/USD", "GBP/JPY", "XAG/USD", "XAU/USD"]
